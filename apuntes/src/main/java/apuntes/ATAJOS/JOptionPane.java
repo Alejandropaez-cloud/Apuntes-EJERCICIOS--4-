@@ -2,10 +2,10 @@ package apuntes.ATAJOS;
 
 import javax.swing.JCheckBox;
 
-import javax.swing.JOptionPane;
-
 public class JOptionPane {
     
+    private static final int OK_OPTION = 0;
+
     public static void main(String[] args) {
         
         // Se importa la clase: javax.swing.JOptionPane;

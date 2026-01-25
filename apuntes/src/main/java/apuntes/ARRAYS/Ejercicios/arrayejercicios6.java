@@ -1,4 +1,4 @@
-package apuntes.ATAJOS;
+package apuntes.ARRAYS.Ejercicios;
 
 import java.util.Scanner;
 

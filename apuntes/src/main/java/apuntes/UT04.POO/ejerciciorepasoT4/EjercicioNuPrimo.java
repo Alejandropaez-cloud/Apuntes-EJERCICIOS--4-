@@ -13,7 +13,7 @@ public class EjercicioNuPrimo {
         try {
             numero = Integer.parseInt(num);
         } catch (NumberFormatException e) {
-            JOptionPane.showMessageDialog(null, "❌ Debes introducir un número válido.", "Error", JOptionPane.ERROR_MESSAGE);
+            JOptionPane.showMessageDialog(null, " Debes introducir un número válido.", "Error", JOptionPane.ERROR_MESSAGE);
             return;
         }
 

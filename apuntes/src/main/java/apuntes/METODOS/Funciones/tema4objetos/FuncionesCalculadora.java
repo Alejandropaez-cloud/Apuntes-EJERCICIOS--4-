@@ -1,4 +1,4 @@
-package daw;
+package apuntes.METODOS.Funciones.tema4objetos;
 
 // Esta clase sirve para crear funciones que 
 // voy a utilizar en otras clases

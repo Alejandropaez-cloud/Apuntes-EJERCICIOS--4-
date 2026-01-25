@@ -1,4 +1,4 @@
-package daw;
+package apuntes.METODOS.Funciones.tema4objetos;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

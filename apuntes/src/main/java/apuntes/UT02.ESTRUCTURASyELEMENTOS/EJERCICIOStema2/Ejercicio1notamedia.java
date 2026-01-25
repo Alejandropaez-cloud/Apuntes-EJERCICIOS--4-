@@ -1,4 +1,4 @@
-package EJERCICIOStema2;
+
 
 import java.util.Scanner;
 
