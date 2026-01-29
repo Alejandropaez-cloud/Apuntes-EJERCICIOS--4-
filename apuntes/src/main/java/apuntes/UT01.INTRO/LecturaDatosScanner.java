@@ -16,7 +16,7 @@ public class LecturaDatosScanner {
     public static void main(String[] args) {
 
         // ============================================================
-        // 🔹 CREACIÓN DE UN OBJETO SCANNER
+        // 🔹 CREACIÓN DE UN OBJETO SCANNER.
         // ============================================================
         // Para leer datos, necesitamos crear un objeto de tipo Scanner
         // que reciba como parámetro la entrada estándar del sistema:

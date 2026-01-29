@@ -10,7 +10,7 @@ public class paresnones {
         // Scanner;
         Scanner albondigo = new Scanner(System.in);
 
-        // VAriables;
+        // Variables;
         String eleccion;
         int salidaHumano = 0;
         int salidaMáquina = 0;

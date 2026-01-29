@@ -1,4 +1,4 @@
-package daw.Bucles;
+
 
 import java.util.Scanner;
 
@@ -43,7 +43,7 @@ public class EstructurasRepeticion {
         int numero = teclado.nextInt();
 
         // while (de 0 a n iteraciones)
-        while (numero = 0) {
+        while (numero >= 8) {
             System.out.println("Crisss");
             System.out.println("Introduce otro numero: ");
             numero = teclado.nextInt();
